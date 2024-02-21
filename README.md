@@ -1,1 +1,1 @@
-# https://github.com/SaiVenkatesh-Jajula/Invoice-Generator.git
+A script that reads invoice records from Excel files and automatically generates PDF invoices.
